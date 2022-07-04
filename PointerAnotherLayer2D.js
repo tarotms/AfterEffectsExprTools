@@ -2,7 +2,7 @@
 Pointer another Layer`s anchorpoint
 Return 2D degrees
 Can be use in Rotation and so on
-Example:
+Example :
   pointer()           ---> from thisLayer`s anchorPoint pointer to upper layer`s anchorPoint
   pointer(index+1)    ---> from thisLayer`s anchorPoint pointer to lower layer`s anchorPoint
   pointer(N)          ---> from thisLayer`s anchorPoint pointer to Nth layer`s anchorPoint
