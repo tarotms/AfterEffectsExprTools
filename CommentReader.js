@@ -1,5 +1,5 @@
 /*
-Read Comment key`s word at currentTime
+Read marker`s Comment word at currentTime
 Return string
 Can be use in sourceText and so on
 Example:
