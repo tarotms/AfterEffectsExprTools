@@ -1,7 +1,7 @@
 /*
 Set the timer to 0 at each key
 Return number
-Example:
+Example :
 KEY   :    o             o     o         o
 RETURN:0-1-0-1-2-3-4-5-6-0-1-2-0-1-2-3-4-0-1-2
 */
